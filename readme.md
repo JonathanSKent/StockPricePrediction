@@ -11,7 +11,7 @@ Fairly low-level descriptions of each element of the functionality is found
 commented ahead of each function in the code itself. Here, I will provide a 
 high-level overview of how the whole thing works.
 
-It begins with a dataset stored in a directory, wherein each folder represents
+It begins with a dataset stored in a directory, wherein each filerepresents
 the stock price history of a given stock. The dataset I used was obtained from
 Kaggle, but in the past I have collected my own dataset using tools like
 urllib2 and BeautifulSoup.
